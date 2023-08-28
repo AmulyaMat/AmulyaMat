@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+I a new user of GitHub. I have coded in Python and MATLAB before. I am excited to use this platform and learn new features for my projects!
 
 <!--
 **AmulyaMat/AmulyaMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
