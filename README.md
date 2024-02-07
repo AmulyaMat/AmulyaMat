@@ -1,7 +1,9 @@
 ## Hi there! 👋
-### 🎁 I am a new user of GitHub. 
-### 🎁 I have experience in Python and MATLAB coding in other platforms. 
-### 🎁 I am excited to use these features for my projects!
+#### 🌱 I'm a master's student in CMU enthusiastic about AI Applications in Biology and Technology!
+
+#### 🌱 I'm experienced in Machine Learning and Deep Learning
+
+#### 🌱 I look forward to collaborating with different people and making a breakthrough with AI!
 
 <!--
 **AmulyaMat/AmulyaMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
