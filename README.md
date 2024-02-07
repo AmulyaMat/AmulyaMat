@@ -3,7 +3,7 @@
 
 #### 🌱 I'm experienced in Machine Learning and Deep Learning
 
-#### 🌱 I look forward to collaborating with different people and making a breakthrough with AI!
+#### 🌱 I look forward to collaborating with different people and making new breakthroughs with AI!
 
 <!--
 **AmulyaMat/AmulyaMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
