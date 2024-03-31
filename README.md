@@ -1,7 +1,7 @@
 ## Hi there! 👋
-#### 🌱 I'm a master's student in CMU enthusiastic about AI Applications in Biology and Technology!
+#### 🌱 I'm a master's student in CMU enthusiastic about AI Applications in Biomedical Engineering!
 
-#### 🌱 I'm experienced in Machine Learning and Deep Learning
+#### 🌱 I'm experienced in Machine Learning, Deep Learning and Visual Learning.
 
 #### 🌱 I look forward to collaborating with different people and making new breakthroughs with AI!
 
