@@ -13,7 +13,7 @@ Python: Pandas, Sklearn, Tensorflow, Keras, MatplotLib, Numpy,
 
 SQL : MySQL, MS-SQL SERVER, POSTGRES
 
-Data Visuzalization: Tabeleu, matplotlib, seaborn,
+Data Visuzalization: Tabeleu, matplotlib, seaborn
 
 Cloud Tech: Azure, AWS and GCP
 
