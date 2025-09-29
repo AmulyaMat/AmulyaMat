@@ -7,6 +7,8 @@ who has completed a degree in **Aritifical Intelligence Engineering in Biomedica
 
 I am deeply motivated by the potential of AI to transform patient care, drug discovery, and disease diagnosis. My goal is to leverage my knowledge and skills to push the boundaries of what's possible in healthcare and biotech, making meaningful contributions to the future of medicine.
 
+---
+
 ## Skills I possess and work on continously:
 
 Programming Languages Python, MATLAB, C, C++, SQL, R
@@ -16,6 +18,8 @@ Machine Learning Frameworks PyTorch, TensorFlow, Keras, Scikit-Learn, River, SHA
 Data Manipulation & Vizualization Tools Pandas, Numpy, Matplotlib, Seaborn, Plotly, PowerBI, Tableu, Excel
 
 Cloud Computing Services AWS (EC2, S3, Lambda, CloudWatch), GCP, Snowflake
+
+---
 
 ## Projects I have worked on:
 1. Cell classification through Raman Spectroscopy
