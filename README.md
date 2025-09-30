@@ -20,9 +20,9 @@
 ---
 
 ## Projects I have worked on:
-1. Cell classification through Raman Spectroscopy
-2. Caffeine Classification based on EEG signals
-3. Breast MRI classification
-4. Seizure detection through EEG signals
-5. BCI EEG signal machine learning implementation
-6. Classification of protein-bonding affinity [in progress]
+1. BCI EEG signal seizure detection
+2. Llava4Science
+3. Breast Cancer MRI classification
+4. Cell classification through Raman Spectroscopy
+5. Protein Binding Classification (SMILES NLP)
+6. Lung Nodule Segmentation
