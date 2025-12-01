@@ -23,6 +23,6 @@
 1. BCI EEG signal seizure detection
 2. Llava4Science
 3. Breast Cancer MRI classification
-4. Cell classification through Raman Spectroscopy
+4. Medical RAG LLM
 5. Protein Binding Classification (SMILES NLP)
 6. Lung Nodule Segmentation
