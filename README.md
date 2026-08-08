@@ -22,6 +22,7 @@
 ## Projects I have worked on:
 1. BCI EEG signal seizure detection
 2. Llava4Science
-3. Breast Cancer MRI classification
-4. Protein Binding Classification (SMILES NLP)
-5. Lung Nodule Segmentation
+3. Medical RAG LLM
+4. Breast Cancer MRI classification
+5. Protein Binding Classification (SMILES NLP)
+6. Lung Nodule Segmentation
